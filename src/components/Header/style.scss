@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem 0 1.4rem;
+    border-bottom: 1px solid rgba(#1a1919, .3);
+}
+
+.header-logo {
+    max-width: 150px;
+}
+
+.header-title {
+    margin-top: .5rem;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}

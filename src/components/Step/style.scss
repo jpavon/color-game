@@ -1,0 +1,26 @@
+.step {
+}
+
+.step-title {
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.step-options {
+    display: flex;
+    flex-direction: column;
+}
+
+.step-options-title {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.step-options-buttons {
+
+    .color-button {
+        margin: 0 .5rem;
+    }
+}
